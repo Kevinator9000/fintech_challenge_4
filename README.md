@@ -6,7 +6,6 @@ The analysis utilizes variance, stardard deviation, Sharpe's Ratio, and beta to 
 ## Technologies
 This program utilizes Jupyter Notebook in conjunction with the following libraries:
 Pandas, Path from Pathlib, Numpy, and matplotlib.
-{insert pic of imports}
 ![](./Resources/screen_shots/import_pic.PNG)
 
 ---
